@@ -27,4 +27,4 @@ workflows:
     jobs: 
 
       - build-and-test 
-- run: make docker_push
+ run: make docker_push
